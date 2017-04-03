@@ -9,6 +9,9 @@ Có mục thi thử trực tuyến để mọi người làm quen với nội du
 Có thể đăng kí trực tiếp dự thi lấy bằng lái xe online. Thông tin sẽ được gửi về những trung tâm chuyên nhận bằng lái xe máy.
 Người dùng có thể hoàn thành mọi thủ tục tại nhà mà không cần phải đi đâu đăng kí.
 Phát triển thêm các lĩnh vực khác sau này ...
-Công cụ sử dụng
+
+
+Ngôn ngữ sử dụng: Html, css, php.
+Framework: Laravel.
 Ứng dụng tham khảo:https://play.google.com/store/apps/details?id=com.rainmastersoft.lythuyetxemay&hl=vi
 Link use case:http://imagizer.imageshack.us/a/img922/3696/tFgzu9.png

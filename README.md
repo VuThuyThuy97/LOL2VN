@@ -10,6 +10,10 @@ Có thể đăng kí trực tiếp dự thi lấy bằng lái xe online. Thông 
 Người dùng có thể hoàn thành mọi thủ tục tại nhà mà không cần phải đi đâu đăng kí.
 Phát triển thêm các lĩnh vực khác sau này ...
 
+Chức năng:
+1. Thi thử.
+2. Ôn thi.
+3. Đăng ký làm hồ sơ trực tuyến.
 Ngôn ngữ sử dụng: Html, css, php.
 
 

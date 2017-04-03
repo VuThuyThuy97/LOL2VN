@@ -14,6 +14,6 @@ Ngôn ngữ sử dụng: Html, css, php.
 Framework: Laravel.
 
 Ứng dụng tham khảo:https://play.google.com/store/apps/details?id=com.rainmastersoft.lythuyetxemay&hl=vi
-Link use case:http://sv1.upsieutoc.com/2017/04/03/Usecase.png
+Use case: 
 
-Use case: ![Use case](http://sv1.upsieutoc.com/2017/04/03/Usecase.png)
+![Use case](http://sv1.upsieutoc.com/2017/04/03/Usecase.png)

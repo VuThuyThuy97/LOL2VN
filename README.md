@@ -1,4 +1,4 @@
-﻿Nhóm LOL2VN Thành viên: 1.Phạm Ngọc Sơn (nhóm trưởng) 2.Vũ Thị Thúy Thúy. 3.Nguyễn Thị Chinh. 4.Nguyễn Việt Dũng.
+Nhóm LOL2VN Thành viên: 1.Phạm Ngọc Sơn (nhóm trưởng) 2.Vũ Thị Thúy Thúy. 3.Nguyễn Thị Chinh. 4.Nguyễn Việt Dũng.
 
 Giới thiệu về website ôn thi lái xe
 
@@ -10,8 +10,10 @@ Có thể đăng kí trực tiếp dự thi lấy bằng lái xe online. Thông 
 Người dùng có thể hoàn thành mọi thủ tục tại nhà mà không cần phải đi đâu đăng kí.
 Phát triển thêm các lĩnh vực khác sau này ...
 
-
 Ngôn ngữ sử dụng: Html, css, php.
 Framework: Laravel.
+
 Ứng dụng tham khảo:https://play.google.com/store/apps/details?id=com.rainmastersoft.lythuyetxemay&hl=vi
-Link use case:http://imagizer.imageshack.us/a/img922/3696/tFgzu9.png
+Link use case:http://sv1.upsieutoc.com/2017/04/03/Usecase.png
+
+Use case: ![Use case](http://sv1.upsieutoc.com/2017/04/03/Usecase.png)

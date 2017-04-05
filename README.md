@@ -1,6 +1,6 @@
 Nhóm LOL2VN Thành viên: 
 
-1.Phạm Ngọc Sơn (nhóm trưởng)
+1.Phạm Ngọc Sơn (nhóm trưởng): 01658485616       -        phamngocsonls@gmail.com
 
 2.Vũ Thị Thúy Thúy.
 

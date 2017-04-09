@@ -19,13 +19,11 @@ Người dùng có thể hoàn thành mọi thủ tục tại nhà mà không c�
 Phát triển thêm các lĩnh vực khác sau này ...
 
 Chức năng:
-1. Thi thử.
+1. Thi thử (Demo:https://thuybeo.herokuapp.com/ontap).
 2. Ôn thi.
 3. Đăng ký làm hồ sơ trực tuyến.
 Ngôn ngữ sử dụng: Html, css, php.
-
-
-Framework: Laravel.
+Framework: Laravel, nodejs.
 
 Ứng dụng tham khảo:https://play.google.com/store/apps/details?id=com.rainmastersoft.lythuyetxemay&hl=vi
 Use case: 
